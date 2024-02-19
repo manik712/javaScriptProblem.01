@@ -14,3 +14,6 @@ console.log(getRndInteger(1,6));
 // problem Node.2
 
 
+
+
+
